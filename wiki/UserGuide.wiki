@@ -1,4 +1,5 @@
 #summary How to use the packaged DiamondBot robot
+#labels Featured
 
 *Table of Contents*
 <wiki:toc max_depth="1" />
