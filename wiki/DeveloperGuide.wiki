@@ -1,0 +1,22 @@
+#summary Instructions for how to improve DiamondBot
+
+*Table of Contents*
+<wiki:toc max_depth="3" />
+
+= 1.0 Prequisites =
+
+Add your content here.
+
+
+= 2.0 Installation =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+== 2.1 Run Ant to install libraries ==
+
+== 2.2 Verify installation ==
+
+= 3.0 Development Guidelines =
