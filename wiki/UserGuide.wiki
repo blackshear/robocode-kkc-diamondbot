@@ -10,7 +10,4 @@ Download the latest distribution of !DiamondBot from the [http://code.google.com
 
 = 2.0 Installation =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+To install !DiamondBot, look for the file named kkc.DiamondBot_(version).jar in the distribution, where (version) is the version of the robot.  Move that file into the robots directory of the Robocode Installation.  Now, you are able to use !DiamondBot. 
