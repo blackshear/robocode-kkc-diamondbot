@@ -13,7 +13,6 @@ import robocode.ScannedRobotEvent;
  * Spinbot, Crazy, Fire, Corners, Tracker, and Sitting Duck.
  * 
  * @author Kevin Chiogioji
- *
  * @version 1.0
  */
 
