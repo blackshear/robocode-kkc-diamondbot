@@ -22,7 +22,7 @@ Verify the compilation of the project with the following command:
 
 % ant -f verify.build.xml
 
-This will run JUnit, Checkstyle, PMD, JavaDoc, and FindBugs.
+This will run JUnit, Checkstyle, PMD, !JavaDoc, and !FindBugs.
 
 = 3.0 Development Guidelines =
 
