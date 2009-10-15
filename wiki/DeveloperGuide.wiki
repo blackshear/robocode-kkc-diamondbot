@@ -28,6 +28,6 @@ This will run JUnit, Checkstyle, PMD, JavaDoc, and FindBugs.
 
 Once verification is completed successfully, you are ready to begin development.
 
-* Eclipse was used to develop this project with the formatting taken from here.
+ * Eclipse was used to develop this project with the formatting taken from here.
 
-* Before committing new changes, verify that the project still runs successfully using the verify command from section 2.2.
+ * Before committing new changes, verify that the project still runs successfully using the verify command from section 2.2.
